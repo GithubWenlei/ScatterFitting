@@ -1,0 +1,4 @@
+行 135: 控件 TeeCommander1 的类 TeeChart.TeeCommander 不是一个已加载的控件类。
+行 143: 控件 TChart1 的类 TeeChart.TChart 不是一个已加载的控件类。
+行 138: 属性名 OleObjectBlob 在 TeeCommander1 中是无效的。
+行 149: 属性名 Base64 在 TChart1 中是无效的。
